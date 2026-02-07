@@ -15,7 +15,7 @@ An intelligent travel assistant built with **Streamlit** and **Google Gemini AI*
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python 3.10+**
 - **Streamlit** for interactive UI
