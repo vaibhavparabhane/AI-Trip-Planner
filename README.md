@@ -4,6 +4,7 @@ An intelligent travel assistant built with **Streamlit** and **Google Gemini AI*
 
 ---
 
+
 ## 🚀 Features
 
 - 📍 Source and destination-based trip planning
