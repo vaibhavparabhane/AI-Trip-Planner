@@ -1,4 +1,4 @@
-# AI Travel Planner
+
 
 An intelligent travel assistant built with **Streamlit** and **Google Gemini AI**, allowing users to plan trips with ease. Get cost estimates, travel time, distance, transportation options, departure info, and food recommendations—all based on your preferences.
 
